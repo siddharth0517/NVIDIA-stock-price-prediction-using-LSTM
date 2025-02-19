@@ -5,3 +5,4 @@ yfinance
 tensorflow-cpu
 scikit-learn
 plotly
+matplotlib
